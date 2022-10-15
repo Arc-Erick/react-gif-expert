@@ -1,4 +1,4 @@
 # GifExpertApp
 
 Este es mi repositorio del proyecto GifExpertApp de React
-Buscador de gifs usando API de giphy
+Buscador de gif's usando API de giphy
